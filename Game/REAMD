@@ -1,0 +1,27 @@
+------ENCE260 Rhythm Master------
+Written by Yaoce Yang and Zheng Chao   
+
+
+
+------How To Run The Game------
+connect UCKF4
+open terminal
+running command:  : “git clone https://eng-git.canterbury.ac.nz/ence260-2021/group_431.git”
+run command: make program
+
+
+
+------Main Menu------
+Before entering the game, you can adjust the difficulty of the game by pressing the buttons in the up and down directions. 
+After confirming, press the button to start the game.
+
+
+
+--------Playing The Game----------
+After entering the game, you will see arrows formed by different LED lights, which point in different directions. 
+When the arrow touches the bottom, press the corresponding arrow key to display a smiley face representing the score. 
+If you press the wrong direction Button, a sad expression will appear, the score is +20, and the failure is -5.
+
+
+--------END--------
+After the game is over, "Game over" will appear, press the button again to show the final score.
